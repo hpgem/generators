@@ -11,8 +11,8 @@ first install the dependencies for pygalmesh (CGAL and EIGEN3)
 sudo apt-get install libcgal-dev libeigen3-dev
 ```
 
-Someo of the functions in this notebook needs
-[our fork](https://github.com/hpgem/pygalmesh). To install:
+Someof the functions in this notebook needs
+[our fork of pygalmesh](https://github.com/hpgem/pygalmesh). To install:
 
 ```
 pip install git+http://git@github.com/hpgem/pygalmesh
